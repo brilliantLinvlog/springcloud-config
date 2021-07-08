@@ -1,1 +1,2 @@
-info: "if you see this file, you can sure your config is fine"
+config:
+  info: "if you see this file, you can sure your config is fine"
